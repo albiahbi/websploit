@@ -15,7 +15,7 @@ Installation
 Manual install via git :
 
 ```bash
-$ git clone https://github.com/websploit/websploit.git
+$ git clone https://github.com/albiahbi/websploit
 $ cd websploit
 $ python setup.py install
 ```
